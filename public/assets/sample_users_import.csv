@@ -1,0 +1,7 @@
+full_name,email,role,password,id_number,contact_number,position,department
+Maria Santos,maria.santos@olfu.edu.ph,faculty,password123,2021-00001,09171234567,Professor,College of Nursing
+Jose Reyes,jose.reyes@olfu.edu.ph,it_staff,password123,E-2022-001,09181234567,IT Support Specialist,IT Department
+Ana Cruz,ana.cruz@olfu.edu.ph,technician,password123,E-2022-002,09191234567,AV Technician,IT Department
+Pedro Dela Cruz,pedro.delacruz@olfu.edu.ph,department_staff,password123,2022-00002,09201234567,Department Secretary,College of Engineering
+Lourdes Garcia,lourdes.garcia@olfu.edu.ph,student,password123,2023-00003,09211234567,,College of Business
+Ramon Mendoza,ramon.mendoza@olfu.edu.ph,it_manager,password123,E-2020-001,09221234567,IT Manager,IT Department

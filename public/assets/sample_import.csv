@@ -1,0 +1,4 @@
+asset_tag,serial_number,manufacturer,model,category,status,install_date,building,floor,room,owner,department,firmware_version,network_info,bulb_hours,warranty_start,warranty_end,coverage_type,vendor_name,contract_reference
+PRJ-9001-A,EPS-SN-99001,Epson,EB-2250U,Projector,active,2024-01-15,Main Building,2nd Floor,Room 201,,IT Department,1.04.00,192.168.1.50,100,2024-01-15,2027-01-14,parts_and_labor,Epson Philippines,EP-2024-001
+SND-9001-A,YMH-SN-99101,Yamaha,DXL1K,Sound System,active,2024-02-01,Annex Building,1st Floor,Auditorium,,Administration,,,,,,,,
+DSP-9001-A,SAM-SN-99201,Samsung,QM75B,Display,spare,2023-11-10,Main Building,3rd Floor,Room 301,,College of Nursing,1220.2,192.168.1.51,,2023-11-10,2026-11-09,parts_only,Samsung Philippines,SAM-2023-301
